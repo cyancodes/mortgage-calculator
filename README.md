@@ -4,9 +4,4 @@ A simple mortgage calculator that takes in details about the property, deposit a
 
 ## GUI Elements
 
-Currency
-Purchase Price
-Deposit
-Interest Rate
-Loan Term
-Start Date
+Currency\nPurchase Price\nDeposit\nInterest\nRate\nLoan\nTerm\nStart Date
