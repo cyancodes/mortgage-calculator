@@ -4,6 +4,7 @@ A simple mortgage calculator that takes in details about the property, deposit a
 
 ## GUI Elements
 
+<<<<<<< HEAD
 Currency  
 Purchase Price  
 Deposit  
@@ -12,3 +13,13 @@ Rate
 Loan  
 Term  
 Start Date  
+=======
+Currency
+Purchase Price
+Deposit
+Interest
+Rate
+Loan
+Term
+Start Date
+>>>>>>> 0185730c8e6d0590245fafb4033343db730bdda8
